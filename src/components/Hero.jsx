@@ -20,6 +20,12 @@ const Hero = () => {
         Summarize Articles with <br className='max-md:hidden'/>
         <span className='orange_gradient'>OpenAI GPT-4</span>
       </h1>
+      <h2 className='desc'>
+        Using Artificial Intelligence to summarize your reading with Summize,
+        an open-source article summarizer. It saves you a lot of time by narrowing down the article
+        with concise summaries
+
+      </h2>
       
       </header>
   )
