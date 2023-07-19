@@ -3,6 +3,8 @@ import React, { useState, useEffect } from "react";
 import { copy, linkIcon, loader, tick } from "../assets";
 import { useLazyGetSummaryQuery } from "../services/article";
 
+
+{/* Update nginx to hide api key*/}
 const Demo = () => {
   const [article, setArticle] = useState({
     url: "",
