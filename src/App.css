@@ -84,7 +84,7 @@
 }
 
 .head2_text {
-  @apply mt-5 text-xl font-extrabold leading-[1.15] text-gray-800 sm:text-6xl text-center;
+  @apply mt-5 text-xl font-extrabold leading-[1.15] text-gray-900 sm:text-6xl text-center;
 }
 
 .orange_gradient {
