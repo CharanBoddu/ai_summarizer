@@ -23,9 +23,20 @@ const Hero = () => {
         <span className='orange_gradient'>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
-        Using Artificial Intelligence to summarize your reading with Summize,
-        an open-source article summarizer. It saves you a lot of time by narrowing down the article
-        with concise summaries
+      C Sumz, an open-source article summarizer,
+       lets you tap into the power of artificial intelligence. 
+       Obtain brief summaries that effectively focus on the key points from the articles
+        to streamline your reading experience and save your time.
+
+
+
+
+
+
+
+
+
+
 
       </h2>
       
