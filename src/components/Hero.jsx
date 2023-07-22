@@ -20,24 +20,13 @@ const Hero = () => {
 
       <h1 className='head_text'>
         Summarize Articles with <br className='max-md:hidden'/>
-        <span className='orange_gradient'>OpenAI GPT-4</span>
+        <span className='red_gradient'>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
       C Sumz, an open-source article summarizer,
        lets you tap into the power of artificial intelligence. 
        Obtain brief summaries that effectively focus on the key points from the articles
         to streamline your reading experience and save your time.
-
-
-
-
-
-
-
-
-
-
-
       </h2>
       
       </header>
