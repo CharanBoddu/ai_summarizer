@@ -7,6 +7,7 @@ const Hero = () => {
       <div className='flex items-center'>
       <img src={logo} alt="sumz_logo" className='w-28 object-contain' />
       <h1 className='head2_text mb-8 pl-5'>C Sumz</h1>
+      
     </div>
 
         <button
