@@ -1,5 +1,7 @@
 # AI Article Summarizer
 
+The following is the link to AI Article Summarizer: https://cboddu-aisummarizer.vercel.app/
+
 In the project directory, you can run:
 
 ### `npm start`
